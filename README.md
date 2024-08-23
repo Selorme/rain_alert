@@ -1,6 +1,3 @@
-Sure, here’s a more detailed `README.md`:
-
-```markdown
 # Weather Alert App
 
 This Python script fetches weather data from the OpenWeatherMap API and sends an SMS alert via Twilio if rain is expected.
@@ -92,3 +89,6 @@ For questions or support, please contact [your-email@example.com](mailto:your-em
 ```
 
 Feel free to adjust the placeholders like `yourusername`, `your-repository`, and `your_script_name.py` with actual details relevant to your project. If you have any other specific information you want to include, let me know!
+# rain_alert
+Code to built a weather app to send you messages whenever it is going to rain in your vicinity; don't forget your umbrella
+1fa2e32f7738a09dfb856f11c1a026e5f2e41827
